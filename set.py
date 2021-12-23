@@ -1,4 +1,4 @@
-s1 = 'ravi'
+s1 = 'ravigiri'
 s2 = 'tejaghgh'
 
 first = len(s1)
