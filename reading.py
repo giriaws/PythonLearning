@@ -1,4 +1,3 @@
-
 inventory = {
     'gold' : 500,
     'pouch' : ['flint', 'twine', 'gemstone'],
@@ -13,7 +12,7 @@ for k,v in inventory.items():
         inventory['backpack']=sorted(inventory['backpack'])
 
     
-print("new inventory:",inventory)   
+print("new inventory dict:",inventory)   
 
 #remove dagger
 
