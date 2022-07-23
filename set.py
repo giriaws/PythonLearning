@@ -1,5 +1,5 @@
 s1 = 'ravigiri'
-s2 = 'tejaghgh'
+s2 = 'tejaghh'
 
 first = len(s1)
 second = len(s2)
